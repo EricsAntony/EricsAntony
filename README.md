@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erics Antony</h1>
-<h3 align="center">Enthusiastic and motivated software engineer with a solid computer science and programming principles foundation. Proficient in designing, developing, and testing software applications to meet diverse project requirements. Adept at utilizing technical skills to collaborate effectively and deliver high-quality solutions in a team environment. Eager to contribute to innovative projects while continuing to grow and develop as a professional in software engineering.</h3>
+<h1 align="center">Hi 👋, I'm Erics</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsantony&label=Profile%20views&color=0e75b6&style=flat" alt="ericsantony" /> </p>
 
